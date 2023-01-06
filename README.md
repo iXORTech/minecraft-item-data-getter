@@ -54,7 +54,7 @@ Users can modify and redistribute the source code and use it for commercial prop
 - Use this project for any proposes that violate the laws of **The United States of America**, **Canada**, **The People's Republic of China**, and the country where the user is at.
 
 - When you use this project for other project:
-  - You should to mention the usage of our software and a URL to our repository in any part of your product description. The fact that our code is free and open-source must not be distorted or hidden.
+  - You should **clearly** mention the usage of our software and a URL to our repository in any part of your product description. The fact that our code is free and open-source must not be distorted or hidden.
 
 - For derived projects of `minecraft-item-data-getter`:
   - Your project should also be open-sourced under [AGPL-3.0-or-later License](LICENSE). Whether it is a fork of our project or another project that use our code.
