@@ -1,29 +1,30 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "minecraft-item-data-getter",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Minecraft Item Data Getter",
+  "description": "Fabric mod for getting Minecraft Item ID & writing them to a JSON file for other APIs to use｜一个通过注册表读取 Minecraft 物品 ID 并将其写入 JSON 文件以供其他 API 使用的 Fabric mod",
   "authors": [
-    "Me!"
+    "iXOR Technology",
+    "Cubik65536"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://ixor.tech/",
+    "sources": "https://github.com/iXORTech/minecraft-item-data-getter"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "AGPL-3.0",
+  "icon": "assets/minecraft-item-data-getter/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "tech.ixor.minecraft_item_data_getter.MinecraftItemDataGetter"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "minecraft-item-data-getter.mixins.json"
   ],
 
   "depends": {

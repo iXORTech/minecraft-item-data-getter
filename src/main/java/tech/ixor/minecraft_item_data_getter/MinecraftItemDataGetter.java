@@ -1,8 +1,8 @@
-package net.fabricmc.example;
+package tech.ixor.minecraft_item_data_getter;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class MinecraftItemDataGetter implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
