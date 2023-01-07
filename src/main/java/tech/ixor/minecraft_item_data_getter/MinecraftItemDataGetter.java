@@ -31,6 +31,17 @@ public class MinecraftItemDataGetter implements ModInitializer {
 		});
 		System.out.println("Printed Minecraft Item Registry Data to console.");
 
+
+		System.out.println("Printing Minecraft Block Registry Data to console...");
+		Registry.BLOCK.forEach(block -> {
+			String blockName = block.toString()
+					.replace("Block{minecraft:", "")
+					.replace("}", "");
+			System.out.println("Minecraft Block: " + blockName);
+			itemNames.add(blockName);
+		});
+		System.out.println("Printed Minecraft Block Registry Data to console.");
+
 		itemNames.sort(String::compareToIgnoreCase);
 
 		JsonArray items = new JsonArray();
