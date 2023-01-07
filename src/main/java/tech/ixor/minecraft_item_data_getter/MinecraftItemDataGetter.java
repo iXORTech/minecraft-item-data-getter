@@ -33,7 +33,9 @@ public class MinecraftItemDataGetter implements ModInitializer {
 		Registry.ITEM.forEach(item -> {
 			String itemName = item.toString();
 			System.out.println("Minecraft Item: " + itemName);
-			itemNames.add(itemName);
+			if (!itemNames.contains(itemName)) {
+				itemNames.add(itemName);
+			}
 		});
 		System.out.println("Printed Minecraft Item Registry Data to console.");
 
@@ -44,7 +46,9 @@ public class MinecraftItemDataGetter implements ModInitializer {
 					.replace("Block{minecraft:", "")
 					.replace("}", "");
 			System.out.println("Minecraft Block: " + blockName);
-			itemNames.add(blockName);
+			if (!itemNames.contains(blockName)) {
+				itemNames.add(blockName);
+			}
 		});
 		System.out.println("Printed Minecraft Block Registry Data to console.");
 
