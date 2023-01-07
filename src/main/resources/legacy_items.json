@@ -1,0 +1,1391 @@
+[
+  {
+    "id": "legacy_acacia_door"
+  },
+  {
+    "id": "legacy_acacia_door_item"
+  },
+  {
+    "id": "legacy_acacia_fence"
+  },
+  {
+    "id": "legacy_acacia_fence_gate"
+  },
+  {
+    "id": "legacy_acacia_stairs"
+  },
+  {
+    "id": "legacy_activator_rail"
+  },
+  {
+    "id": "legacy_air"
+  },
+  {
+    "id": "legacy_anvil"
+  },
+  {
+    "id": "legacy_apple"
+  },
+  {
+    "id": "legacy_armor_stand"
+  },
+  {
+    "id": "legacy_arrow"
+  },
+  {
+    "id": "legacy_baked_potato"
+  },
+  {
+    "id": "legacy_banner"
+  },
+  {
+    "id": "legacy_barrier"
+  },
+  {
+    "id": "legacy_beacon"
+  },
+  {
+    "id": "legacy_bed"
+  },
+  {
+    "id": "legacy_bed_block"
+  },
+  {
+    "id": "legacy_bedrock"
+  },
+  {
+    "id": "legacy_beetroot"
+  },
+  {
+    "id": "legacy_beetroot_block"
+  },
+  {
+    "id": "legacy_beetroot_seeds"
+  },
+  {
+    "id": "legacy_beetroot_soup"
+  },
+  {
+    "id": "legacy_birch_door"
+  },
+  {
+    "id": "legacy_birch_door_item"
+  },
+  {
+    "id": "legacy_birch_fence"
+  },
+  {
+    "id": "legacy_birch_fence_gate"
+  },
+  {
+    "id": "legacy_birch_wood_stairs"
+  },
+  {
+    "id": "legacy_black_glazed_terracotta"
+  },
+  {
+    "id": "legacy_black_shulker_box"
+  },
+  {
+    "id": "legacy_blaze_powder"
+  },
+  {
+    "id": "legacy_blaze_rod"
+  },
+  {
+    "id": "legacy_blue_glazed_terracotta"
+  },
+  {
+    "id": "legacy_blue_shulker_box"
+  },
+  {
+    "id": "legacy_boat"
+  },
+  {
+    "id": "legacy_boat_acacia"
+  },
+  {
+    "id": "legacy_boat_birch"
+  },
+  {
+    "id": "legacy_boat_dark_oak"
+  },
+  {
+    "id": "legacy_boat_jungle"
+  },
+  {
+    "id": "legacy_boat_spruce"
+  },
+  {
+    "id": "legacy_bone"
+  },
+  {
+    "id": "legacy_bone_block"
+  },
+  {
+    "id": "legacy_book"
+  },
+  {
+    "id": "legacy_book_and_quill"
+  },
+  {
+    "id": "legacy_bookshelf"
+  },
+  {
+    "id": "legacy_bow"
+  },
+  {
+    "id": "legacy_bowl"
+  },
+  {
+    "id": "legacy_bread"
+  },
+  {
+    "id": "legacy_brewing_stand"
+  },
+  {
+    "id": "legacy_brewing_stand_item"
+  },
+  {
+    "id": "legacy_brick"
+  },
+  {
+    "id": "legacy_brick_stairs"
+  },
+  {
+    "id": "legacy_brown_glazed_terracotta"
+  },
+  {
+    "id": "legacy_brown_mushroom"
+  },
+  {
+    "id": "legacy_brown_shulker_box"
+  },
+  {
+    "id": "legacy_bucket"
+  },
+  {
+    "id": "legacy_burning_furnace"
+  },
+  {
+    "id": "legacy_cactus"
+  },
+  {
+    "id": "legacy_cake"
+  },
+  {
+    "id": "legacy_cake_block"
+  },
+  {
+    "id": "legacy_carpet"
+  },
+  {
+    "id": "legacy_carrot"
+  },
+  {
+    "id": "legacy_carrot_item"
+  },
+  {
+    "id": "legacy_carrot_stick"
+  },
+  {
+    "id": "legacy_cauldron"
+  },
+  {
+    "id": "legacy_cauldron_item"
+  },
+  {
+    "id": "legacy_chainmail_boots"
+  },
+  {
+    "id": "legacy_chainmail_chestplate"
+  },
+  {
+    "id": "legacy_chainmail_helmet"
+  },
+  {
+    "id": "legacy_chainmail_leggings"
+  },
+  {
+    "id": "legacy_chest"
+  },
+  {
+    "id": "legacy_chorus_flower"
+  },
+  {
+    "id": "legacy_chorus_fruit"
+  },
+  {
+    "id": "legacy_chorus_fruit_popped"
+  },
+  {
+    "id": "legacy_chorus_plant"
+  },
+  {
+    "id": "legacy_clay"
+  },
+  {
+    "id": "legacy_clay_ball"
+  },
+  {
+    "id": "legacy_clay_brick"
+  },
+  {
+    "id": "legacy_coal"
+  },
+  {
+    "id": "legacy_coal_block"
+  },
+  {
+    "id": "legacy_coal_ore"
+  },
+  {
+    "id": "legacy_cobble_wall"
+  },
+  {
+    "id": "legacy_cobblestone"
+  },
+  {
+    "id": "legacy_cobblestone_stairs"
+  },
+  {
+    "id": "legacy_cocoa"
+  },
+  {
+    "id": "legacy_command"
+  },
+  {
+    "id": "legacy_command_chain"
+  },
+  {
+    "id": "legacy_command_minecart"
+  },
+  {
+    "id": "legacy_command_repeating"
+  },
+  {
+    "id": "legacy_compass"
+  },
+  {
+    "id": "legacy_concrete"
+  },
+  {
+    "id": "legacy_concrete_powder"
+  },
+  {
+    "id": "legacy_cooked_beef"
+  },
+  {
+    "id": "legacy_cooked_chicken"
+  },
+  {
+    "id": "legacy_cooked_fish"
+  },
+  {
+    "id": "legacy_cooked_mutton"
+  },
+  {
+    "id": "legacy_cooked_rabbit"
+  },
+  {
+    "id": "legacy_cookie"
+  },
+  {
+    "id": "legacy_crops"
+  },
+  {
+    "id": "legacy_cyan_glazed_terracotta"
+  },
+  {
+    "id": "legacy_cyan_shulker_box"
+  },
+  {
+    "id": "legacy_dark_oak_door"
+  },
+  {
+    "id": "legacy_dark_oak_door_item"
+  },
+  {
+    "id": "legacy_dark_oak_fence"
+  },
+  {
+    "id": "legacy_dark_oak_fence_gate"
+  },
+  {
+    "id": "legacy_dark_oak_stairs"
+  },
+  {
+    "id": "legacy_daylight_detector"
+  },
+  {
+    "id": "legacy_daylight_detector_inverted"
+  },
+  {
+    "id": "legacy_dead_bush"
+  },
+  {
+    "id": "legacy_detector_rail"
+  },
+  {
+    "id": "legacy_diamond"
+  },
+  {
+    "id": "legacy_diamond_axe"
+  },
+  {
+    "id": "legacy_diamond_barding"
+  },
+  {
+    "id": "legacy_diamond_block"
+  },
+  {
+    "id": "legacy_diamond_boots"
+  },
+  {
+    "id": "legacy_diamond_chestplate"
+  },
+  {
+    "id": "legacy_diamond_helmet"
+  },
+  {
+    "id": "legacy_diamond_hoe"
+  },
+  {
+    "id": "legacy_diamond_leggings"
+  },
+  {
+    "id": "legacy_diamond_ore"
+  },
+  {
+    "id": "legacy_diamond_pickaxe"
+  },
+  {
+    "id": "legacy_diamond_spade"
+  },
+  {
+    "id": "legacy_diamond_sword"
+  },
+  {
+    "id": "legacy_diode"
+  },
+  {
+    "id": "legacy_diode_block_off"
+  },
+  {
+    "id": "legacy_diode_block_on"
+  },
+  {
+    "id": "legacy_dirt"
+  },
+  {
+    "id": "legacy_dispenser"
+  },
+  {
+    "id": "legacy_double_plant"
+  },
+  {
+    "id": "legacy_double_step"
+  },
+  {
+    "id": "legacy_double_stone_slab2"
+  },
+  {
+    "id": "legacy_dragon_egg"
+  },
+  {
+    "id": "legacy_dragons_breath"
+  },
+  {
+    "id": "legacy_dropper"
+  },
+  {
+    "id": "legacy_egg"
+  },
+  {
+    "id": "legacy_elytra"
+  },
+  {
+    "id": "legacy_emerald"
+  },
+  {
+    "id": "legacy_emerald_block"
+  },
+  {
+    "id": "legacy_emerald_ore"
+  },
+  {
+    "id": "legacy_empty_map"
+  },
+  {
+    "id": "legacy_enchanted_book"
+  },
+  {
+    "id": "legacy_enchantment_table"
+  },
+  {
+    "id": "legacy_end_bricks"
+  },
+  {
+    "id": "legacy_end_crystal"
+  },
+  {
+    "id": "legacy_end_gateway"
+  },
+  {
+    "id": "legacy_end_rod"
+  },
+  {
+    "id": "legacy_ender_chest"
+  },
+  {
+    "id": "legacy_ender_pearl"
+  },
+  {
+    "id": "legacy_ender_portal"
+  },
+  {
+    "id": "legacy_ender_portal_frame"
+  },
+  {
+    "id": "legacy_ender_stone"
+  },
+  {
+    "id": "legacy_exp_bottle"
+  },
+  {
+    "id": "legacy_explosive_minecart"
+  },
+  {
+    "id": "legacy_eye_of_ender"
+  },
+  {
+    "id": "legacy_feather"
+  },
+  {
+    "id": "legacy_fence"
+  },
+  {
+    "id": "legacy_fence_gate"
+  },
+  {
+    "id": "legacy_fermented_spider_eye"
+  },
+  {
+    "id": "legacy_fire"
+  },
+  {
+    "id": "legacy_fireball"
+  },
+  {
+    "id": "legacy_firework"
+  },
+  {
+    "id": "legacy_firework_charge"
+  },
+  {
+    "id": "legacy_fishing_rod"
+  },
+  {
+    "id": "legacy_flint"
+  },
+  {
+    "id": "legacy_flint_and_steel"
+  },
+  {
+    "id": "legacy_flower_pot"
+  },
+  {
+    "id": "legacy_flower_pot_item"
+  },
+  {
+    "id": "legacy_frosted_ice"
+  },
+  {
+    "id": "legacy_furnace"
+  },
+  {
+    "id": "legacy_ghast_tear"
+  },
+  {
+    "id": "legacy_glass"
+  },
+  {
+    "id": "legacy_glass_bottle"
+  },
+  {
+    "id": "legacy_glowing_redstone_ore"
+  },
+  {
+    "id": "legacy_glowstone"
+  },
+  {
+    "id": "legacy_glowstone_dust"
+  },
+  {
+    "id": "legacy_gold_axe"
+  },
+  {
+    "id": "legacy_gold_barding"
+  },
+  {
+    "id": "legacy_gold_block"
+  },
+  {
+    "id": "legacy_gold_boots"
+  },
+  {
+    "id": "legacy_gold_chestplate"
+  },
+  {
+    "id": "legacy_gold_helmet"
+  },
+  {
+    "id": "legacy_gold_hoe"
+  },
+  {
+    "id": "legacy_gold_ingot"
+  },
+  {
+    "id": "legacy_gold_leggings"
+  },
+  {
+    "id": "legacy_gold_nugget"
+  },
+  {
+    "id": "legacy_gold_ore"
+  },
+  {
+    "id": "legacy_gold_pickaxe"
+  },
+  {
+    "id": "legacy_gold_plate"
+  },
+  {
+    "id": "legacy_gold_record"
+  },
+  {
+    "id": "legacy_gold_spade"
+  },
+  {
+    "id": "legacy_gold_sword"
+  },
+  {
+    "id": "legacy_golden_apple"
+  },
+  {
+    "id": "legacy_golden_carrot"
+  },
+  {
+    "id": "legacy_grass"
+  },
+  {
+    "id": "legacy_grass_path"
+  },
+  {
+    "id": "legacy_gravel"
+  },
+  {
+    "id": "legacy_gray_glazed_terracotta"
+  },
+  {
+    "id": "legacy_gray_shulker_box"
+  },
+  {
+    "id": "legacy_green_glazed_terracotta"
+  },
+  {
+    "id": "legacy_green_record"
+  },
+  {
+    "id": "legacy_green_shulker_box"
+  },
+  {
+    "id": "legacy_grilled_pork"
+  },
+  {
+    "id": "legacy_hard_clay"
+  },
+  {
+    "id": "legacy_hay_block"
+  },
+  {
+    "id": "legacy_hopper"
+  },
+  {
+    "id": "legacy_hopper_minecart"
+  },
+  {
+    "id": "legacy_huge_mushroom_1"
+  },
+  {
+    "id": "legacy_huge_mushroom_2"
+  },
+  {
+    "id": "legacy_ice"
+  },
+  {
+    "id": "legacy_ink_sack"
+  },
+  {
+    "id": "legacy_iron_axe"
+  },
+  {
+    "id": "legacy_iron_barding"
+  },
+  {
+    "id": "legacy_iron_block"
+  },
+  {
+    "id": "legacy_iron_boots"
+  },
+  {
+    "id": "legacy_iron_chestplate"
+  },
+  {
+    "id": "legacy_iron_door"
+  },
+  {
+    "id": "legacy_iron_door_block"
+  },
+  {
+    "id": "legacy_iron_fence"
+  },
+  {
+    "id": "legacy_iron_helmet"
+  },
+  {
+    "id": "legacy_iron_hoe"
+  },
+  {
+    "id": "legacy_iron_ingot"
+  },
+  {
+    "id": "legacy_iron_leggings"
+  },
+  {
+    "id": "legacy_iron_nugget"
+  },
+  {
+    "id": "legacy_iron_ore"
+  },
+  {
+    "id": "legacy_iron_pickaxe"
+  },
+  {
+    "id": "legacy_iron_plate"
+  },
+  {
+    "id": "legacy_iron_spade"
+  },
+  {
+    "id": "legacy_iron_sword"
+  },
+  {
+    "id": "legacy_iron_trapdoor"
+  },
+  {
+    "id": "legacy_item_frame"
+  },
+  {
+    "id": "legacy_jack_o_lantern"
+  },
+  {
+    "id": "legacy_jukebox"
+  },
+  {
+    "id": "legacy_jungle_door"
+  },
+  {
+    "id": "legacy_jungle_door_item"
+  },
+  {
+    "id": "legacy_jungle_fence"
+  },
+  {
+    "id": "legacy_jungle_fence_gate"
+  },
+  {
+    "id": "legacy_jungle_wood_stairs"
+  },
+  {
+    "id": "legacy_knowledge_book"
+  },
+  {
+    "id": "legacy_ladder"
+  },
+  {
+    "id": "legacy_lapis_block"
+  },
+  {
+    "id": "legacy_lapis_ore"
+  },
+  {
+    "id": "legacy_lava"
+  },
+  {
+    "id": "legacy_lava_bucket"
+  },
+  {
+    "id": "legacy_leash"
+  },
+  {
+    "id": "legacy_leather"
+  },
+  {
+    "id": "legacy_leather_boots"
+  },
+  {
+    "id": "legacy_leather_chestplate"
+  },
+  {
+    "id": "legacy_leather_helmet"
+  },
+  {
+    "id": "legacy_leather_leggings"
+  },
+  {
+    "id": "legacy_leaves"
+  },
+  {
+    "id": "legacy_leaves_2"
+  },
+  {
+    "id": "legacy_lever"
+  },
+  {
+    "id": "legacy_light_blue_glazed_terracotta"
+  },
+  {
+    "id": "legacy_light_blue_shulker_box"
+  },
+  {
+    "id": "legacy_lime_glazed_terracotta"
+  },
+  {
+    "id": "legacy_lime_shulker_box"
+  },
+  {
+    "id": "legacy_lingering_potion"
+  },
+  {
+    "id": "legacy_log"
+  },
+  {
+    "id": "legacy_log_2"
+  },
+  {
+    "id": "legacy_long_grass"
+  },
+  {
+    "id": "legacy_magenta_glazed_terracotta"
+  },
+  {
+    "id": "legacy_magenta_shulker_box"
+  },
+  {
+    "id": "legacy_magma"
+  },
+  {
+    "id": "legacy_magma_cream"
+  },
+  {
+    "id": "legacy_map"
+  },
+  {
+    "id": "legacy_melon"
+  },
+  {
+    "id": "legacy_melon_block"
+  },
+  {
+    "id": "legacy_melon_seeds"
+  },
+  {
+    "id": "legacy_melon_stem"
+  },
+  {
+    "id": "legacy_milk_bucket"
+  },
+  {
+    "id": "legacy_minecart"
+  },
+  {
+    "id": "legacy_mob_spawner"
+  },
+  {
+    "id": "legacy_monster_egg"
+  },
+  {
+    "id": "legacy_monster_eggs"
+  },
+  {
+    "id": "legacy_mossy_cobblestone"
+  },
+  {
+    "id": "legacy_mushroom_soup"
+  },
+  {
+    "id": "legacy_mutton"
+  },
+  {
+    "id": "legacy_mycel"
+  },
+  {
+    "id": "legacy_name_tag"
+  },
+  {
+    "id": "legacy_nether_brick"
+  },
+  {
+    "id": "legacy_nether_brick_item"
+  },
+  {
+    "id": "legacy_nether_brick_stairs"
+  },
+  {
+    "id": "legacy_nether_fence"
+  },
+  {
+    "id": "legacy_nether_stalk"
+  },
+  {
+    "id": "legacy_nether_star"
+  },
+  {
+    "id": "legacy_nether_wart_block"
+  },
+  {
+    "id": "legacy_nether_warts"
+  },
+  {
+    "id": "legacy_netherrack"
+  },
+  {
+    "id": "legacy_note_block"
+  },
+  {
+    "id": "legacy_observer"
+  },
+  {
+    "id": "legacy_obsidian"
+  },
+  {
+    "id": "legacy_orange_glazed_terracotta"
+  },
+  {
+    "id": "legacy_orange_shulker_box"
+  },
+  {
+    "id": "legacy_packed_ice"
+  },
+  {
+    "id": "legacy_painting"
+  },
+  {
+    "id": "legacy_paper"
+  },
+  {
+    "id": "legacy_pink_glazed_terracotta"
+  },
+  {
+    "id": "legacy_pink_shulker_box"
+  },
+  {
+    "id": "legacy_piston_base"
+  },
+  {
+    "id": "legacy_piston_extension"
+  },
+  {
+    "id": "legacy_piston_moving_piece"
+  },
+  {
+    "id": "legacy_piston_sticky_base"
+  },
+  {
+    "id": "legacy_poisonous_potato"
+  },
+  {
+    "id": "legacy_pork"
+  },
+  {
+    "id": "legacy_portal"
+  },
+  {
+    "id": "legacy_potato"
+  },
+  {
+    "id": "legacy_potato_item"
+  },
+  {
+    "id": "legacy_potion"
+  },
+  {
+    "id": "legacy_powered_minecart"
+  },
+  {
+    "id": "legacy_powered_rail"
+  },
+  {
+    "id": "legacy_prismarine"
+  },
+  {
+    "id": "legacy_prismarine_crystals"
+  },
+  {
+    "id": "legacy_prismarine_shard"
+  },
+  {
+    "id": "legacy_pumpkin"
+  },
+  {
+    "id": "legacy_pumpkin_pie"
+  },
+  {
+    "id": "legacy_pumpkin_seeds"
+  },
+  {
+    "id": "legacy_pumpkin_stem"
+  },
+  {
+    "id": "legacy_purple_glazed_terracotta"
+  },
+  {
+    "id": "legacy_purple_shulker_box"
+  },
+  {
+    "id": "legacy_purpur_block"
+  },
+  {
+    "id": "legacy_purpur_double_slab"
+  },
+  {
+    "id": "legacy_purpur_pillar"
+  },
+  {
+    "id": "legacy_purpur_slab"
+  },
+  {
+    "id": "legacy_purpur_stairs"
+  },
+  {
+    "id": "legacy_quartz"
+  },
+  {
+    "id": "legacy_quartz_block"
+  },
+  {
+    "id": "legacy_quartz_ore"
+  },
+  {
+    "id": "legacy_quartz_stairs"
+  },
+  {
+    "id": "legacy_rabbit"
+  },
+  {
+    "id": "legacy_rabbit_foot"
+  },
+  {
+    "id": "legacy_rabbit_hide"
+  },
+  {
+    "id": "legacy_rabbit_stew"
+  },
+  {
+    "id": "legacy_rails"
+  },
+  {
+    "id": "legacy_raw_beef"
+  },
+  {
+    "id": "legacy_raw_chicken"
+  },
+  {
+    "id": "legacy_raw_fish"
+  },
+  {
+    "id": "legacy_record_10"
+  },
+  {
+    "id": "legacy_record_11"
+  },
+  {
+    "id": "legacy_record_12"
+  },
+  {
+    "id": "legacy_record_3"
+  },
+  {
+    "id": "legacy_record_4"
+  },
+  {
+    "id": "legacy_record_5"
+  },
+  {
+    "id": "legacy_record_6"
+  },
+  {
+    "id": "legacy_record_7"
+  },
+  {
+    "id": "legacy_record_8"
+  },
+  {
+    "id": "legacy_record_9"
+  },
+  {
+    "id": "legacy_red_glazed_terracotta"
+  },
+  {
+    "id": "legacy_red_mushroom"
+  },
+  {
+    "id": "legacy_red_nether_brick"
+  },
+  {
+    "id": "legacy_red_rose"
+  },
+  {
+    "id": "legacy_red_sandstone"
+  },
+  {
+    "id": "legacy_red_sandstone_stairs"
+  },
+  {
+    "id": "legacy_red_shulker_box"
+  },
+  {
+    "id": "legacy_redstone"
+  },
+  {
+    "id": "legacy_redstone_block"
+  },
+  {
+    "id": "legacy_redstone_comparator"
+  },
+  {
+    "id": "legacy_redstone_comparator_off"
+  },
+  {
+    "id": "legacy_redstone_comparator_on"
+  },
+  {
+    "id": "legacy_redstone_lamp_off"
+  },
+  {
+    "id": "legacy_redstone_lamp_on"
+  },
+  {
+    "id": "legacy_redstone_ore"
+  },
+  {
+    "id": "legacy_redstone_torch_off"
+  },
+  {
+    "id": "legacy_redstone_torch_on"
+  },
+  {
+    "id": "legacy_redstone_wire"
+  },
+  {
+    "id": "legacy_rotten_flesh"
+  },
+  {
+    "id": "legacy_saddle"
+  },
+  {
+    "id": "legacy_sand"
+  },
+  {
+    "id": "legacy_sandstone"
+  },
+  {
+    "id": "legacy_sandstone_stairs"
+  },
+  {
+    "id": "legacy_sapling"
+  },
+  {
+    "id": "legacy_sea_lantern"
+  },
+  {
+    "id": "legacy_seeds"
+  },
+  {
+    "id": "legacy_shears"
+  },
+  {
+    "id": "legacy_shield"
+  },
+  {
+    "id": "legacy_shulker_shell"
+  },
+  {
+    "id": "legacy_sign"
+  },
+  {
+    "id": "legacy_sign_post"
+  },
+  {
+    "id": "legacy_silver_glazed_terracotta"
+  },
+  {
+    "id": "legacy_silver_shulker_box"
+  },
+  {
+    "id": "legacy_skull"
+  },
+  {
+    "id": "legacy_skull_item"
+  },
+  {
+    "id": "legacy_slime_ball"
+  },
+  {
+    "id": "legacy_slime_block"
+  },
+  {
+    "id": "legacy_smooth_brick"
+  },
+  {
+    "id": "legacy_smooth_stairs"
+  },
+  {
+    "id": "legacy_snow"
+  },
+  {
+    "id": "legacy_snow_ball"
+  },
+  {
+    "id": "legacy_snow_block"
+  },
+  {
+    "id": "legacy_soil"
+  },
+  {
+    "id": "legacy_soul_sand"
+  },
+  {
+    "id": "legacy_speckled_melon"
+  },
+  {
+    "id": "legacy_spectral_arrow"
+  },
+  {
+    "id": "legacy_spider_eye"
+  },
+  {
+    "id": "legacy_splash_potion"
+  },
+  {
+    "id": "legacy_sponge"
+  },
+  {
+    "id": "legacy_spruce_door"
+  },
+  {
+    "id": "legacy_spruce_door_item"
+  },
+  {
+    "id": "legacy_spruce_fence"
+  },
+  {
+    "id": "legacy_spruce_fence_gate"
+  },
+  {
+    "id": "legacy_spruce_wood_stairs"
+  },
+  {
+    "id": "legacy_stained_clay"
+  },
+  {
+    "id": "legacy_stained_glass"
+  },
+  {
+    "id": "legacy_stained_glass_pane"
+  },
+  {
+    "id": "legacy_standing_banner"
+  },
+  {
+    "id": "legacy_stationary_lava"
+  },
+  {
+    "id": "legacy_stationary_water"
+  },
+  {
+    "id": "legacy_step"
+  },
+  {
+    "id": "legacy_stick"
+  },
+  {
+    "id": "legacy_stone"
+  },
+  {
+    "id": "legacy_stone_axe"
+  },
+  {
+    "id": "legacy_stone_button"
+  },
+  {
+    "id": "legacy_stone_hoe"
+  },
+  {
+    "id": "legacy_stone_pickaxe"
+  },
+  {
+    "id": "legacy_stone_plate"
+  },
+  {
+    "id": "legacy_stone_slab2"
+  },
+  {
+    "id": "legacy_stone_spade"
+  },
+  {
+    "id": "legacy_stone_sword"
+  },
+  {
+    "id": "legacy_storage_minecart"
+  },
+  {
+    "id": "legacy_string"
+  },
+  {
+    "id": "legacy_structure_block"
+  },
+  {
+    "id": "legacy_structure_void"
+  },
+  {
+    "id": "legacy_sugar"
+  },
+  {
+    "id": "legacy_sugar_cane"
+  },
+  {
+    "id": "legacy_sugar_cane_block"
+  },
+  {
+    "id": "legacy_sulphur"
+  },
+  {
+    "id": "legacy_thin_glass"
+  },
+  {
+    "id": "legacy_tipped_arrow"
+  },
+  {
+    "id": "legacy_tnt"
+  },
+  {
+    "id": "legacy_torch"
+  },
+  {
+    "id": "legacy_totem"
+  },
+  {
+    "id": "legacy_trap_door"
+  },
+  {
+    "id": "legacy_trapped_chest"
+  },
+  {
+    "id": "legacy_tripwire"
+  },
+  {
+    "id": "legacy_tripwire_hook"
+  },
+  {
+    "id": "legacy_vine"
+  },
+  {
+    "id": "legacy_wall_banner"
+  },
+  {
+    "id": "legacy_wall_sign"
+  },
+  {
+    "id": "legacy_watch"
+  },
+  {
+    "id": "legacy_water"
+  },
+  {
+    "id": "legacy_water_bucket"
+  },
+  {
+    "id": "legacy_water_lily"
+  },
+  {
+    "id": "legacy_web"
+  },
+  {
+    "id": "legacy_wheat"
+  },
+  {
+    "id": "legacy_white_glazed_terracotta"
+  },
+  {
+    "id": "legacy_white_shulker_box"
+  },
+  {
+    "id": "legacy_wood"
+  },
+  {
+    "id": "legacy_wood_axe"
+  },
+  {
+    "id": "legacy_wood_button"
+  },
+  {
+    "id": "legacy_wood_door"
+  },
+  {
+    "id": "legacy_wood_double_step"
+  },
+  {
+    "id": "legacy_wood_hoe"
+  },
+  {
+    "id": "legacy_wood_pickaxe"
+  },
+  {
+    "id": "legacy_wood_plate"
+  },
+  {
+    "id": "legacy_wood_spade"
+  },
+  {
+    "id": "legacy_wood_stairs"
+  },
+  {
+    "id": "legacy_wood_step"
+  },
+  {
+    "id": "legacy_wood_sword"
+  },
+  {
+    "id": "legacy_wooden_door"
+  },
+  {
+    "id": "legacy_wool"
+  },
+  {
+    "id": "legacy_workbench"
+  },
+  {
+    "id": "legacy_written_book"
+  },
+  {
+    "id": "legacy_yellow_flower"
+  },
+  {
+    "id": "legacy_yellow_glazed_terracotta"
+  },
+  {
+    "id": "legacy_yellow_shulker_box"
+  }
+]
