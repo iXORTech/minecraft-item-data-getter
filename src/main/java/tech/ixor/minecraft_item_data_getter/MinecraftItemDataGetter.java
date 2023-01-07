@@ -1,5 +1,7 @@
 package tech.ixor.minecraft_item_data_getter;
 
+import java.util.List;
+import java.util.ArrayList;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -19,15 +21,22 @@ public class MinecraftItemDataGetter implements ModInitializer {
 
 		System.out.println("Hello Fabric world!");
 
-		JsonArray items = new JsonArray();
+		List<String> itemNames = new ArrayList<>();
 
 		System.out.println("Printing Minecraft Item Registry Data to console...");
 		Registry.ITEM.forEach(item -> {
 			String itemName = item.toString();
 			System.out.println("Minecraft Item: " + itemName);
-			items.add(itemName);
+			itemNames.add(itemName);
 		});
 		System.out.println("Printed Minecraft Item Registry Data to console.");
+
+		itemNames.sort(String::compareToIgnoreCase);
+
+		JsonArray items = new JsonArray();
+		for (String itemName : itemNames) {
+			items.add(itemName);
+		}
 
 		System.out.println("Writing Minecraft Item Registry Data to file...");
 		JsonObject minecraftItemData = new JsonObject();
