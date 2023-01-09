@@ -36,9 +36,11 @@ jobs:
         run: ./gradlew --version
       - name: Build with Gradle
         run: ./gradlew build
+      - name: Get short SHA
+        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
       - name: Upload Build Artifacts
         if: ${{ runner.os == 'macOS' }} # Only upload artifacts built on macOS
         uses: actions/upload-artifact@v3
         with:
-          name: Artifacts
+          name: MinecraftItemDataGetter-1.16-${{ env.SHORT_SHA }}
           path: build/libs/
