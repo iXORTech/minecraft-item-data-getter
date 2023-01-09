@@ -15,7 +15,7 @@ jobs:
           8,    # Minimum supported by Minecraft
         ]
         # and run on Linux, macOS, and Windows
-        os: [ubuntu-latest, macos-latest, windows-latest]
+        os: [macos-latest, ubuntu-latest, windows-latest]
     runs-on: ${{ matrix.os }}
     steps:
       - name: checkout repository
@@ -33,7 +33,7 @@ jobs:
       - name: build
         run: ./gradlew build
       - name: capture build artifacts
-        if: ${{ runner.os == 'Linux' }} # Only upload artifacts built on Linux OS
+        if: ${{ runner.os == 'macOS' }} # Only upload artifacts built on macOS
         uses: actions/upload-artifact@v3
         with:
           name: Artifacts
